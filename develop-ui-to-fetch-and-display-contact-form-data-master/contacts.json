@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "id" : 1,
+      "FirstName": "Smith",
+      "LastName": "Donna",
+      "Email": "smith123@gmail.com",
+      "HomeNo": "+911234567890",
+      "Company": "Rosemary International",
+      "JobTitle": "Sale",
+      "WorkNo": "+912453652780", 
+      "Birthdate": "1967-02-12"
+    },
+    {
+      "id": 2,
+      "FirstName": "Candy",
+      "LastName": "Chen",
+      "Email": "smith123@gmail.com",
+      "HomeNo": "911234567890",
+      "Company": "Rosemary International",
+      "JobTitle": "Sale",
+      "WorkNo": "912453652780",
+      "Birthdate": "1967-02-12"
+    },
+    {
+      "id": 3,
+      "FirstName": "Ricky",
+      "LastName": "Chen",
+      "Email": "smith123@gmail.com",
+      "HomeNo": "911234567890",
+      "Company": "Rosemary International",
+      "JobTitle": "Manager",
+      "WorkNo": "912453652780",
+      "Birthdate": "1967-02-12"
+    },
+    {
+      "id": 4,
+      "FirstName": "Donald",
+      "LastName": "Mitchell",
+      "Email": "Donald123@gmail.com",
+      "HomeNo": "911234567890",
+      "Company": "Rosemary International",
+      "JobTitle": "Manager",
+      "WorkNo": "912453652780",
+      "Birthdate": "1967-02-12"
+    }
+  ]
+}
